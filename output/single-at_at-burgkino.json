@@ -1,0 +1,16 @@
+{
+  "crawler": {
+    "id": "single-at_at-burgkino",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Burg Kino",
+    "address": "Opernring 19, 1010 Wien",
+    "website": "https://www.burgkino.at/",
+    "phone": "+43 1 5878406"
+  },
+  "showtimes": []
+}

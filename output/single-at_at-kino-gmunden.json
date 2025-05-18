@@ -1,0 +1,32 @@
+{
+  "crawler": {
+    "id": "single-at_at-kino-gmunden",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kino Gmunden",
+    "address": "Theatergasse 7, 4810 Gmunden",
+    "website": "http://www.kino-gmunden.at/",
+    "phone": "0676 / 88 794 505"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Griechenland",
+      "start_at": "2023-03-25T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Maurice der Kater",
+      "start_at": "2023-03-25T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Everything Everywhere All At Once",
+      "start_at": "2023-03-25T20:00:00",
+      "is_3d": false
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "crawler": {
+    "id": "teste",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Daskino",
+    "address": "Die Kassa öffnet an diesem Tag",
+    "website": "https://www.daskino.at/",
+    "phone": "+43 662 87 31 00 15"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Kasperl in der Fledermausschlucht",
+      "start_at": "2023-03-23T15:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Spielplan 2022/2023"
+      ],
+      "auditorium": "SAAL Spielplan"
+    },
+    {
+      "movie_title": "Stams",
+      "start_at": "2023-03-23T16:15:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-23T16:45:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "The Assistant",
+      "start_at": "2023-03-23T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "Frauenfilmreihe"
+      ],
+      "auditorium": "GEWÖLBE Frauenfilmreihe"
+    },
+    {
+      "movie_title": "Everything Everywhere All at Once",
+      "start_at": "2023-03-23T19:45:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Halbmännerwelt",
+      "start_at": "2023-03-23T20:15:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Stams",
+      "start_at": "2023-03-24T13:30:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Sterne unter der Stadt",
+      "start_at": "2023-03-24T14:30:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Saint Omer",
+      "start_at": "2023-03-24T15:30:00",
+      "is_3d": false,
+      "attributes": [
+        "Frauenfilmreihe"
+      ],
+      "auditorium": "GEWÖLBE Frauenfilmreihe"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-24T16:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Ninjababy",
+      "start_at": "2023-03-24T18:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Frauenfilmreihe"
+      ],
+      "auditorium": "GEWÖLBE Frauenfilmreihe"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-24T19:30:00",
+      "is_3d": false,
+      "attributes": [
+        "Premiere | Lars Eidinger – Sein oder nicht Sein"
+      ],
+      "auditorium": "SAAL Premiere"
+    },
+    {
+      "movie_title": "Wann wird es endlich wieder so, wie es nie war",
+      "start_at": "2023-03-24T20:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Der Fuchs",
+      "start_at": "2023-03-25T13:15:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Pippi Langstrumpf",
+      "start_at": "2023-03-25T14:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Kinderkino"
+      ],
+      "auditorium": "GEWÖLBE Kinderkino"
+    },
+    {
+      "movie_title": "Sterne unter der Stadt",
+      "start_at": "2023-03-25T15:30:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-25T16:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-25T17:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Halbmännerwelt",
+      "start_at": "2023-03-25T18:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-25T20:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Everything Everywhere All at Once",
+      "start_at": "2023-03-25T20:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Die Aussprache",
+      "start_at": "2023-03-26T11:30:00",
+      "is_3d": false,
+      "attributes": [
+        "Matinee",
+        "OSCAR-Nominierungen & Gewinner 2023",
+        "Frauenfilmreihe"
+      ],
+      "auditorium": "GEWÖLBE Matinee OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-26T11:45:00",
+      "is_3d": false,
+      "attributes": [
+        "Matinee",
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL Matinee OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Pippi Langstrumpf",
+      "start_at": "2023-03-26T14:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Kinderkino"
+      ],
+      "auditorium": "GEWÖLBE Kinderkino"
+    },
+    {
+      "movie_title": "Der Fuchs",
+      "start_at": "2023-03-26T14:45:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-26T16:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Wann wird es endlich wieder so, wie es nie war",
+      "start_at": "2023-03-26T17:15:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-26T18:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Everything Everywhere All at Once",
+      "start_at": "2023-03-26T19:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Call Jane",
+      "start_at": "2023-03-26T20:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Sunday Special",
+        "Frauenfilmreihe"
+      ],
+      "auditorium": "GEWÖLBE Sunday"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-27T15:30:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Stams",
+      "start_at": "2023-03-27T16:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Halbmännerwelt",
+      "start_at": "2023-03-27T17:30:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-27T18:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Parsifal",
+      "start_at": "2023-03-27T19:30:00",
+      "is_3d": false,
+      "attributes": [
+        "Film & Gespräch | Parsifal"
+      ],
+      "auditorium": "SAAL Film"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-27T20:00:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "GEWÖLBE OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-28T15:30:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Sterne unter der Stadt",
+      "start_at": "2023-03-28T16:00:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-28T17:30:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Wann wird es endlich wieder so, wie es nie war",
+      "start_at": "2023-03-28T18:00:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-28T19:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "GEWÖLBE OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Everything Everywhere All at Once",
+      "start_at": "2023-03-28T20:15:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-29T15:00:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Stams",
+      "start_at": "2023-03-29T16:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Der Fuchs",
+      "start_at": "2023-03-29T17:00:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-29T18:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-29T19:30:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Wann wird es endlich wieder so, wie es nie war",
+      "start_at": "2023-03-29T20:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tagebuch einer Pariser Affäre",
+      "start_at": "2023-03-30T15:15:00",
+      "is_3d": false,
+      "auditorium": "SAAL"
+    },
+    {
+      "movie_title": "Lars Eidinger – Sein oder nicht Sein",
+      "start_at": "2023-03-30T16:00:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    },
+    {
+      "movie_title": "Tár",
+      "start_at": "2023-03-30T17:15:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Tchaikovsky's Wife",
+      "start_at": "2023-03-30T18:00:00",
+      "is_3d": false,
+      "attributes": [
+        "Filmclub Slawistika"
+      ],
+      "auditorium": "GEWÖLBE Filmclub"
+    },
+    {
+      "movie_title": "Everything Everywhere All at Once",
+      "start_at": "2023-03-30T20:15:00",
+      "is_3d": false,
+      "attributes": [
+        "OSCAR-Nominierungen & Gewinner 2023"
+      ],
+      "auditorium": "SAAL OSCAR-Nominierungen"
+    },
+    {
+      "movie_title": "Halbmännerwelt",
+      "start_at": "2023-03-30T20:45:00",
+      "is_3d": false,
+      "auditorium": "GEWÖLBE"
+    }
+  ]
+}

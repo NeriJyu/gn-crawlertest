@@ -1,0 +1,52 @@
+{
+  "crawler": {
+    "id": "single-at_at-kommkino",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Filmfabrik",
+    "address": "Königstraße 93, 90402 Nürnberg",
+    "website": "https://kommkino.de/",
+    "phone": "+49 911 14887015"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Crazy Thunder Road",
+      "start_at": "2023-03-23T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ganja & Hess",
+      "start_at": "2023-03-24T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE 80s CLUB: Die Goonies",
+      "start_at": "2023-03-25T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Nemesis",
+      "start_at": "2023-03-28T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Teuflische Klasse",
+      "start_at": "2023-03-29T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Captain America",
+      "start_at": "2023-03-30T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Flucht aus Atlantis",
+      "start_at": "2023-03-31T21:15:00",
+      "is_3d": false
+    }
+  ]
+}

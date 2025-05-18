@@ -1,0 +1,47 @@
+{
+  "crawler": {
+    "id": "single-at_at-kino-freistadt",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kino Freistadt",
+    "address": "Salzgasse 25, 4240 Freistadt",
+    "website": "https://www.kino-freistadt.at/",
+    "phone": "+43 7942 777 11"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Griechenland",
+      "start_at": "2023-03-23T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Überflieger 2: Das Geheimnis des großen Juwels",
+      "start_at": "2023-03-23T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mutter",
+      "start_at": "2023-03-23T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Wann wird es endlich wieder so, wie es nie war",
+      "start_at": "2023-03-23T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Im Westen nichts Neues",
+      "start_at": "2023-03-23T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Fabelmans",
+      "start_at": "2023-03-23T20:00:00",
+      "is_3d": false
+    }
+  ]
+}

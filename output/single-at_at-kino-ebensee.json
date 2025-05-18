@@ -1,0 +1,73 @@
+{
+  "crawler": {
+    "id": "single-at_at-kino-ebensee",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kulturverein Ebensee",
+    "address": "Schulgasse 6, 4802 Ebensee",
+    "website": "https://www.kino-ebensee.at/",
+    "phone": "0676 / 88 794 505"
+  },
+  "showtimes": [
+    {
+      "title": "DER GESCHMACK DER KLEINEN DINGE",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "SIGNS OF WAR",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "KINDERKINO - IM HIMMEL IST AUCH PLATZ FÜR MÄUSE",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "GRIECHENLAND",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "DIE FRAU IM NEBEL - DECISION TO LEAVE",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "EVERYTHING EVERYWHERE ALL AT ONCE",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    },
+    {
+      "title": "Filmprogramm Frühjahr 2023",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2023-03-24T00:05:29"
+    }
+  ]
+}
